@@ -1,4 +1,4 @@
-# **Project Name: Club Management System in Mongoose Schema Design**
+# **Project Name: Mongoose Schema Design**
 
 ## **Description**
 This project provides the Mongoose schema for an event management system with various entities, including Users, Chapters, Memberships, Events, Tasks, Resources, and more. The schema is designed to handle user interactions, event registrations, resource bookings, task assignments, and credit tracking in a scalable manner.
